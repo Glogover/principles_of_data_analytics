@@ -2,3 +2,6 @@ numpy
 scikit-learn
 matplotlib
 scipy
+seaborn
+pandas
+statsmodels
