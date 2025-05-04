@@ -18,3 +18,10 @@ by Marcin Kaminski
 - Codespaces
 - Jupyter
 
+# Iris Dataset Analysis
+
+This notebook provides a comprehensive analysis of the Iris dataset, covering data loading, exploration, visualization, and statistical summaries. The Iris dataset is a classic dataset in machine learning and statistics, containing measurements of three iris species: setosa, versicolor, and virginica.
+
+## Table of Contents
+
+
