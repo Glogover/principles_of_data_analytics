@@ -1,8 +1,8 @@
 # Iris Dataset Analysis
 
-by Marcin Kaminski
+*by Marcin Kaminski*
 
-This notebook provides a comprehensive analysis of the Iris dataset, covering data loading, exploration, visualization, and statistical summaries. The Iris dataset is a classic dataset in machine learning and statistics, containing measurements of three iris species: setosa, versicolor, and virginica.
+**This notebook provides a comprehensive analysis of the Iris dataset, covering data loading, exploration, visualization, and statistical summaries. The Iris dataset is a classic dataset in machine learning and statistics, containing measurements of three iris species: setosa, versicolor, and virginica.**
 
 ## Technologies
 
@@ -20,6 +20,7 @@ This notebook provides a comprehensive analysis of the Iris dataset, covering da
 - Pyplot
 - Seaborn 
 - SciPy
+
 
 ## Table of Contents
 
@@ -73,3 +74,5 @@ This notebook provides a comprehensive analysis of the Iris dataset, covering da
 
     Use `seaborn` to create a `pairplot` of the data set.  
     Explain, in your own words, what the `pairplot` depicts.
+
+
