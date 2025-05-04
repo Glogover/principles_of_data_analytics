@@ -67,8 +67,8 @@
 
 ### Task 9: Fit a Simple Linear Regression
 
-    For your two features in Task 5, calculate the coefficient of determination $R^2$.  
-    Re-create the plot from Task 6 and annotate it with the $R^2$ value.
+    For your two features in Task 5, calculate the coefficient of determination R^2.  
+    Re-create the plot from Task 6 and annotate it with the R^2 value.
 
 ### Task 10: Too Many Features
 
